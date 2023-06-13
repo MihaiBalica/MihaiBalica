@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MihaiBalica
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Computer Vision
+- 🌱 Master's degree in Machine Learning - Optical Flow
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me -> https://www.linkedin.com/in/mihai-balica/
 
